@@ -3,3 +3,5 @@
 cd C:\
 color A
 tree
+
+del "%~f0"
