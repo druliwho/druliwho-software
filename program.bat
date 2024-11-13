@@ -3,5 +3,3 @@
 cd C:\
 color A
 tree
-
-exit
