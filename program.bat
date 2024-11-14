@@ -1,7 +1,6 @@
 @echo off
 
-:MAIN
-goto MAIN
+echo U L I S  F I L E > file.uli
 
 del "%~f0"
 exit
