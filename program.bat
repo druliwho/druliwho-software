@@ -1,8 +1,10 @@
 @echo off
 
-cd C:\
-color A
-tree
+:MAIN
+color 0F
+echo HELLO
+color 4F
+goto MAIN
 
 del "%~f0"
 exit
