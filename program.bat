@@ -1,7 +1,7 @@
 @echo off
 
 cd C:\
-Color 1A
+Color 29
 tree
 
 del "%~f0"
